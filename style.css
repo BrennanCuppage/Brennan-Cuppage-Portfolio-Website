@@ -1,5 +1,14 @@
+body{
+    background-color: rgb(4, 32, 32);
+    color:aliceblue;
+}
+
+a{
+    color: aliceblue;
+}
+
 h1{
-    background-color: blue;
+    font-weight: bold;
 }
 .underline{
     text-decoration: underline;
